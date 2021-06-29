@@ -1,2 +1,1 @@
-# Origami-2
-The more professional way of origami!
+# C50-ORIGAMI-WEBSITE-DESIGN-PART-2
